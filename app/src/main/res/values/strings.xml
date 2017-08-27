@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">琅嬛福地</string>
+    <string name="app_url">https://www.d05660.top/web/</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="wifi_disconnect">请连接网络后使用哦</string>
+</resources>
